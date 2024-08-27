@@ -1,7 +1,7 @@
-# PCVK
-
-[![Google Collab](https://colab.google/static/images/icons/colab.png)](https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week1.ipynb)
+# Pengolahan Citra dan Visi Komputer
 
 <a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week1.ipynb">
-  <img src="https://colab.google/static/images/icons/colab.png" alt="Google Collab" height="100">
+  <img src="https://colab.google/static/images/icons/colab.png" alt="Google Collab" width="100">
 </a>
+
+Tugas Matkul Pengolahan Citra dan Visi Komputer
