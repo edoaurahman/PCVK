@@ -17,13 +17,23 @@ Tugas Matkul Pengolahan Citra dan Visi Komputer
 <a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week4.ipynb" target="_blank">
   Week 4 - Open in Colab
 </a>
-</a>
 <br>
 <a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week5.ipynb" target="_blank">
   Week 5 - Open in Colab
 </a>
-</a>
 <br>
 <a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week6.ipynb" target="_blank">
   Week 6 - Open in Colab
+</a>
+<br>
+<a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/week7.ipynb" target="_blank">
+  Week 7 - Open in Colab
+</a>
+<br>
+<a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/week8.ipynb" target="_blank">
+  Week 8 - Open in Colab
+</a>
+<br>
+<a href="https://colab.research.google.com/github/edoaurahman/PCVK/blob/main/Week9.ipynb" target="_blank">
+  Week 9 - Open in Colab
 </a>
